@@ -1,17 +1,21 @@
 # Привіт! 👋
 
-Мене звати **Твоє Імʼя**  
-Я початківець у програмуванні, люблю створювати проєкти на Python та JavaScript.  
-Хочу рости як розробник і ділитися своїми роботами тут, на GitHub 🚀
+Мене звати **Тимофій**  
+Навчаюсь розробці у вільний від військової служби час.
 
 ---
 
-## 🛠️ Технології та інструменти:
+## 🛠️ Технології та інструменти
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 ---
 
